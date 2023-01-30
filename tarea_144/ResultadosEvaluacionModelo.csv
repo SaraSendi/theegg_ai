@@ -1,0 +1,12 @@
+Parámetro;Regresion Lineal;Polinomio Orden 2;Polinomio Orden 3;Polinomio Orden 5;Polinomio orden 7
+Precision sobre set de Train;0,72;0,78;0,78;0,79;0,79
+Precision sobre set de Test;0,77;0,84;0,84;0,81;0,81
+R cuadrado;0,77;0,84;0,84;0,81;0,81
+Error cuadratico medio (MSE);16,07;11,05;11,22;13,43;13,43
+Raiz del error cuadratico medio (RMSE);12,68;10,51;10,59;11,59;11,59
+Error medio absoluto (MAE);10,48;8,54;8,66;9,18;91,79
+R cuadrado ajustado ;0,77;0,84;0,84;0,81;0,81
+Valores de coeficientes a;[[22.52808219]];[[ 0.         55.00027105 -4.85354174]];[[ 0.         48.51541143 -2.88918961 -0.18331127]];"[[  0.          53.06428571 -21.25595238  10.43849206  -2.26785714
+    0.16388889]]";"[[ 0.          6.20770913  9.77051467  5.47743016 -4.91792703  1.4365997
+  -0.19992437  0.01099888]]"
+Valor de interseccion b;[61.83493151];[11.47777376];[17.8661747];[26.85714286];[49.21459887]
